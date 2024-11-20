@@ -1,1 +1,10 @@
-lolol
+Local world = game.Workspace
+Local dumz = game.ReplicatedStorage:FindFirstChild(“NPCtemplate”):Clone()
+Local shirt = Instance.new("Shirt")
+Local pants = Instance.new("Pants")
+shirt.AssetID = (((shirt)))
+pants.AssetID = (((pants)))
+
+dumz.Parent = world
+shirt.Parent = dumz
+pants.Parent = dumz
