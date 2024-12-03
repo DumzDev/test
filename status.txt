@@ -1,0 +1,5 @@
+--STATUS
+currentstate: OK
+ping: (pingms)
+currentversion: v3.4
+up-to-date: true
