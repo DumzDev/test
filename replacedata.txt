@@ -1,1 +1,1 @@
-{"shirt":"link1","pants":"link2"}
+{"shirt":"link1","pants":"link23"}
