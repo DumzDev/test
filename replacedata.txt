@@ -1,1 +1,1 @@
-{"shirt":"https://github.com/DumzDev/test/blob/main/stuff/Screenshot%202024-12-03%20034235.png?raw=true","pants":"link2f3"}
+{"shirt":"https://github.com/DumzDev/test/blob/main/stuff/Screenshot%202024-12-03%20034235.png","pants":"link2f3"}
