@@ -1,1 +1,1 @@
-{"shirt":"link1","pants":"link2f3"}
+{"shirt":"https://files.catbox.moe/ibhqp8.gif","pants":"link2f3"}
