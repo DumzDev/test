@@ -1,1 +1,1 @@
-{"shirt":"https://files.catbox.moe/ibhqp8.gif","pants":"link2f3"}
+{"shirt":"https://github.com/DumzDev/test/blob/main/stuff/Screenshot%202024-12-03%20034235.png?raw=true","pants":"link2f3"}
